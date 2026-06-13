@@ -31,12 +31,20 @@ This is my living document — a personal technology radar based on 21+ years of
 
 ## Want More?
 
-- PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Headless Architectures -> https://github.com/sidneyrees/headless-ecommerce-architectures
-- Automation & AI Agents -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
+- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
+- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
 
----
+--- 
 
-Sidney Rees
-Fractional CTO+PMO for eCommerce & Digital Businesses
-🌐 sidneyrees.com | 📧 sidney@sidneyrees.com
+## I can help. Let's talk.
+
+Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
+
+🌐 https://www.sidneyrees.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
+
+📫 Available for consulting opportunities
