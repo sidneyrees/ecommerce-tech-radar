@@ -138,13 +138,18 @@ Organized by quadrant so it's not just "platforms." Update quarterly — last fu
 
 ---
 
-## Want More?
+## Next Step
 
-- Success Stories & Real Cases → https://github.com/sidneyrees/real-cases-and-success-stories
+**→ [See these calls play out in real client work](https://github.com/sidneyrees/real-cases-and-success-stories)** — the radar isn't theoretical, it's what's actually in production.
+
+<details>
+<summary>More resources</summary>
+
 - CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
 - Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
 - Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
+
+</details>
 
 ---
 
