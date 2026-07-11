@@ -1,8 +1,10 @@
+![Sidney Rees — Fractional CTO+PMO for eCommerce](https://raw.githubusercontent.com/sidneyrees/sidneyrees/main/assets/banner.png)
+
 # 🧭 eCommerce Tech Radar 2026 – Personal Perspective
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Updated](https://img.shields.io/badge/Updated-July%202026-blue)
-![Experience](https://img.shields.io/badge/Based%20On-70%2B%20Projects-orange)
+![Status](https://img.shields.io/badge/Status-Live-D9A441)
+![Updated](https://img.shields.io/badge/Updated-July%202026-D9A441)
+![Experience](https://img.shields.io/badge/Based%20On-70%2B%20Projects-D9A441)
 
 ## What Is This?
 
@@ -153,7 +155,18 @@ Organized by quadrant so it's not just "platforms." Update quarterly — last fu
 
 ---
 
-**Part of the Sidney Rees ecosystem** — 🟡 [Sidney Rees](https://sidneyrees.com) (strategy) · 🔵 [Sigma Reef](https://sigmareef.com) (e-commerce AI) · 🟢 [Cadence Ridge](https://cadenceridge.com) (SMB automation)
+```mermaid
+flowchart LR
+    A["🔵 Sigma Reef<br/>E-commerce AI & Automation"]
+    B["🟡 Sidney Rees<br/>Authority & Strategy"]
+    C["🟢 Cadence Ridge<br/>SMB Automation & AI Agents"]
+    A --- B --- C
+    style A fill:#2452C4,stroke:#17337a,color:#ffffff
+    style B fill:#D9A441,stroke:#8a6a1f,color:#111111
+    style C fill:#14A897,stroke:#0c6359,color:#111111
+```
+
+🔵 [Sigma Reef](https://sigmareef.com) · 🟡 [Sidney Rees](https://sidneyrees.com) · 🟢 [Cadence Ridge](https://cadenceridge.com)
 
 ---
 
